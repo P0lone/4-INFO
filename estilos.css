@@ -1,0 +1,19 @@
+*{
+    margin: 0.3%;
+    padding: 0%;
+}
+
+label{
+    display: block;
+}
+
+input {
+     display: block;
+}
+
+form {
+    border: 1px black solid;
+    width: 400px;
+    padding: 25px;
+    font-size: 18px;
+}
